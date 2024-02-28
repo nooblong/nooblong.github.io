@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> 空空如也
-{: .prompt-tip }
+空空如也
